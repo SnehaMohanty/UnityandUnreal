@@ -1,2 +1,2 @@
-# MozHubVirtualClassroom
-Personal repository for creating and editing code
+# Unity and Unreal projects
+Repository for creating and editing tasks in Unity and Unreal Engine
